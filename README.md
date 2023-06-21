@@ -1,4 +1,4 @@
-# bulma-clean-theme
+\\<!--# bulma-clean-theme
 
 [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
 ![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
@@ -61,5 +61,4 @@ Your theme is set up just like a normal Jekyll site! To test your theme, run `bu
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).-->
