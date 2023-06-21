@@ -9,56 +9,56 @@
 
 \\<!--## Contents-->
 
-\\<!--* [Installation](#installation)
-\\<!--* [Documentation](#documentation)
-\\<!--* [Contributing](#contributing)
-\\<!--* [Development](#development)
-\\<!--* [Licence](#licence)
+\\<!--* [Installation](#installation)-->
+\\<!--* [Documentation](#documentation)-->
+\\<!--* [Contributing](#contributing)-->
+\\<!--* [Development](#development)-->
+\\<!--* [Licence](#licence)-->
 
 
-\\<!--## Installation
+\\<!--## Installation-->
 
-\\<!--Add this line to your Jekyll site's `Gemfile`:
+\\<!--Add this line to your Jekyll site's `Gemfile`:-->
 
-\\<!--```ruby
-\\<!--gem "bulma-clean-theme"
-\\<!--```
+\\<!--```ruby-->
+\\<!--gem "bulma-clean-theme"-->
+\\<!--```-->
 
-\\<!--And add this line to your Jekyll site's `_config.yml`:
+\\<!--And add this line to your Jekyll site's `_config.yml`:-->
 
-\\<!--```yaml
-\\<!--theme: bulma-clean-theme
-\\<!--```
+\\<!--```yaml-->
+\\<!--theme: bulma-clean-theme-->
+\\<!--```-->
 
-\\<!--If you are deploying to GitHub pages, then you can also install the [GitHub Pages gem](https://github.com/github/pages-gem) and use `remote_theme` instead of `theme` in your `_config.yml`. **Note that the GitHub Pages gem requires Jekyll version 3.9.**
+\\<!--If you are deploying to GitHub pages, then you can also install the [GitHub Pages gem](https://github.com/github/pages-gem) and use `remote_theme` instead of `theme` in your `_config.yml`. **Note that the GitHub Pages gem requires Jekyll version 3.9.**-->
 
-\\<!--```yaml
-\\<!--# With GitHub Pages Gem
-\\<!--remote_theme: chrisrhymes/bulma-clean-theme
-\\<!--```
+\\<!--```yaml-->
+\\<!--# With GitHub Pages Gem-->
+\\<!--remote_theme: chrisrhymes/bulma-clean-theme-->
+\\<!--```-->
 
-\\<!--And then execute:
+\\<!--And then execute:-->
 
-\\<!--    $ bundle
+\\<!--    $ bundle-->
 
-\\<!--Or install it yourself as:
+\\<!--Or install it yourself as:-->
 
-\\<!--    $ gem install bulma-clean-theme
+\\<!--    $ gem install bulma-clean-theme-->
 
-\\<!--## Documentation
+\\<!--## Documentation-->
 
-\\<!--Check out the demo site for the [Documentation](https://www.csrhymes.com/bulma-clean-theme/docs/)
+\\<!--Check out the demo site for the [Documentation](https://www.csrhymes.com/bulma-clean-theme/docs/)-->
 
-\\<!--## Contributing
+\\<!--## Contributing-->
 
-\\<!--Bug reports and pull requests are welcome on GitHub at https://github.com/chrisrhymes/bulma-clean-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+\\<!--Bug reports and pull requests are welcome on GitHub at https://github.com/chrisrhymes/bulma-clean-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.-->
 
-\\<!--## Development
+\\<!--## Development-->
 
-\\<!--To set up your environment to develop this theme, run `bundle install`.
+\\<!--To set up your environment to develop this theme, run `bundle install`.-->
 
-\\<!--Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+\\<!--Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.-->
 
-\\<!--## License
+\\<!--## License-->
 
-\\<!--The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+\\<!--The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).-->
