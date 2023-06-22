@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://saintcho94@gmail.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+- title: LinkedIn
+  url: https://linkedin/in/seonghyun-cho
+  icon: fab fa-linkedin
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/cho-sunghyun
   icon: fab fa-github
