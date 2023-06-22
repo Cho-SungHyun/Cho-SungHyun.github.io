@@ -31,7 +31,7 @@ description:           >
 tagline:               Welcome!!!
 
 # A list of keywords for your blog
-keywords:              PROJECTS / TECH&SKILLS / SOCIALS
+keywords:              PAPERS / PROJECTS / TECH&SKILLS / SOCIALS
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -48,10 +48,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             PROJECTS
-    url:               /example/
-  - title:             TECH & SKILLS
-    url:               /docs/
+#  - title:             PROJECTS
+#    url:               /example/
+#  - title:             TECH & SKILLS
+#    url:               /docs/
   - title:             SOCIALS
     url:               /about/
 
@@ -79,8 +79,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9
+# theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
 
 
 #Customizaton
