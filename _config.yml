@@ -1,8 +1,8 @@
 # Setup
-title: SeongHyun Cho
-description: WELCOME! HERE YOU WILL FIND MORE ABOUT ME. PAPERS, PROJECTS, TECH&SKILLS, AND CONTACTS ARE INCLUDED.
+title: WELCOME! HERE YOU WILL FIND MORE ABOUT ME. PAPERS, PROJECTS, TECH&SKILLS, AND CONTACTS ARE INCLUDED.
+# description: WELCOME! HERE YOU WILL FIND MORE ABOUT ME. PAPERS, PROJECTS, TECH&SKILLS, AND CONTACTS ARE INCLUDED.
 url: https://cho-sunghyun.github.io
-avatar: /assets/img/avatar.jpg
+avatar: /assets/img/seonghyun.png
 paginate: 5
 permalink: pretty
 cover_image: /assets/img/bg.jpeg

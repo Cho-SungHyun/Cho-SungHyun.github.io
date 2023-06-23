@@ -7,7 +7,15 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 {% comment %} Check the type of archive {% endcomment %}
-{%- if page.type == 'categories' -%}
+{%- if page.type == 'papers' -%}
+  {%- assign taxonomies = site.papers -%}
+{%- elsif page.type == 'projects' -%}
+  {%- assign taxonomies = site.projects -%}
+{%- elsif page.type == 'techskills' -%}
+  {%- assign taxonomies = site.techskills -%}
+{%- elsif page.type == 'contacts' -%}
+  {%- assign taxonomies = site.contacts -%}
+{%- elsif page.type == 'categories' -%}
   {%- assign taxonomies = site.categories -%}
 {%- elsif page.type == 'tags' -%}
   {%- assign taxonomies = site.tags -%}

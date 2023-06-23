@@ -1,9 +1,21 @@
-- type: dates
+- type: PAPERS
+  title: PAPERS
+  url: /dates/
+- type: PROJECTS
+  title: PROJECTS
+  url: /categories/
+- type: TECH&SKILLS
+  title: TECH&SKILLS
+  url: /tags/
+- type: CONTACTS
+  title: CONTACTS
+  url: /tags/
+- type: Dates
   title: Dates
   url: /dates/
-#- type: categories
-#  title: Categories
-#  url: /categories/
-- type: tags
+- type: Categories
+  title: Categories
+  url: /categories/
+- type: Tags
   title: Tags
   url: /tags/
